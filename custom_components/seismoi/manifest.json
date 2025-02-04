@@ -1,0 +1,12 @@
+{
+  "domain": "seismoi",
+  "name": "Seismoi",
+  "codeowners": ["@bkbilly"],
+  "config_flow": true,
+  "documentation": "https://www.github.com/bkbilly/seismoi",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "loggers": ["aio_geojson_generic_client"],
+  "requirements": ["aio-geojson-generic-client==0.5"],
+  "version": "0.0.1"
+}
