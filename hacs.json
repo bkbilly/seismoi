@@ -1,4 +1,5 @@
 {
   "name": "Seismoi",
-  "homeassistant": "2024.10.0"
+  "homeassistant": "2024.10.0",
+  "country": "GR"
 }
